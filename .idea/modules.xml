@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/hello.iml" filepath="$PROJECT_DIR$/.idea/hello.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/learnGo.iml" filepath="$PROJECT_DIR$/.idea/learnGo.iml" />
+>>>>>>> 25aa5f5 (write 2 functioning mudules)
     </modules>
   </component>
 </project>
